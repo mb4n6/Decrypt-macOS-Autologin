@@ -1,4 +1,4 @@
-# macOS kcpassword Decryptor - Python3 Edition
+# macOS kcpassword Decryptor
 
 Educational tool for understanding XOR encryption in macOS autologin passwords.
 
