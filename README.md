@@ -11,7 +11,7 @@ Hochschule für Polizei Baden-Württemberg
 
 ------------------------------------------------------------------------
 
-## 📋 Contents
+## Contents
 
 This package contains three Python 3 implementations:
 
